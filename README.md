@@ -6,7 +6,8 @@
 
 This is the program that can find recipes for the most popular cocktails in the world and not only find them but also create a PDF file with all information on ingredients, instructions, and even an image of the cocktail you want to make!
 
-  
+ ### How to use:
+ 1. Just run the python file and that's it!
 
 So, when you run it, the program is going to ask you to input the first letter of the cocktail or its full name. Let's start with the first case where your input is just the first letter, because who knows maybe you want to choose your future drink just by the random interesting name or you remember only the beginning of the word. After your input, the output of the program is going to look like this:
 
