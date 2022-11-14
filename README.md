@@ -40,7 +40,7 @@ Choose any one:
 The list of cocktails starting with "n" is going to appear and you have to choose one. After this moment the rest of the program is going to be the same as if you typed full name. If you entered the wrong name of the cocktail or no drinks are starting with your letter, it will exit with sys.exit, and a message will show up:
 
 ```bash
-We do not have such a cocktail or you wrote the wrong name. Try again
+We dont have such a cocktail or you wrote the wrong name. Try again
 
 ```
 
